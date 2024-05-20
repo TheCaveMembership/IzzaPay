@@ -2,9 +2,9 @@
 
 ## Introducing Izza Pay
 
-Welcome to Izza Pay - your seamless solution for enabling merchants to accept Pi Coins through their Shopify stores & other e-commerce platforms! 
+Welcome to Izza Pay - your seamless solution for enabling merchants to accept Pi Coins through their Shopify stores & other e-commerce platforms!
 
-### Why Choose Izza Pay?
+## Why Choose Izza Pay?
 
 Izza Pay is designed with simplicity and efficiency in mind, empowering merchants to effortlessly integrate Pi Coin payments into their online stores. With our platform, merchants can:
 
@@ -13,22 +13,22 @@ Izza Pay is designed with simplicity and efficiency in mind, empowering merchant
 - **Receive Payments Directly**: Get paid directly into your Pi Network wallet, ensuring fast and secure transactions.
 - **User-Friendly Dashboard**: Monitor and manage transactions with ease through our intuitive dashboard.
 
-### Perfect for Businesses
+## Perfect for Businesses
 
 Izza Pay is the perfect solution for businesses seeking to tap into the rapidly growing Pi Network community. Whether you're a small-scale entrepreneur or a large e-commerce enterprise, Izza Pay offers a unique and convenient payment option that enhances your customers' shopping experience.
 
-### Get Started with Izza Pay
+## Get Started with Izza Pay
 
-Ready to revolutionize your online payment system? Subscribe to Izza Pay now and start accepting Pi Coins with ease! 
+Ready to revolutionize your online payment system? Subscribe to Izza Pay now and start accepting Pi Coins with ease!
 
 ## Installation
 
-To install Izza Pay, simply follow these steps:
+Izza Pay is a PiOS-licensed project, and while the repository is open-source and provides information about the project, merchants must access the app through the Pi Network app.
 
-1. Clone the repository to your local machine.
-2. Set up your hosting environment and deploy the Flask application.
-3. Customize the application to meet your specific requirements.
-4. Start accepting Pi Coins from your customers seamlessly!
+To use Izza Pay, merchants need to:
+1. **Access the Izza Pay App**: Search for Izza Pay on the Pi Network app and subscribe to our services.
+2. **Create Payment URLs**: Use the app to generate payment URLs for your products.
+3. **Manage Payments**: Use our fully customizable merchant dashboard within the app to manage your transactions.
 
 ## Contributing
 
